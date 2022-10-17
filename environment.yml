@@ -2,6 +2,7 @@ name: PhaseEquilibria
 channels:
   - defaults
 dependencies:
+  - ipywidgets
   - jupyter
   - numpy
   - pandas
